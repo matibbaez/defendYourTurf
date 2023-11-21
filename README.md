@@ -1,6 +1,6 @@
 # Defend Your Turf!
 
-¡Bienvenido a Defend Your Turf! Este es un juego simple desarrollado en Pygame donde debes defender tu territorio de enemigos y peligros que se acercan.
+¡Bienvenido a Defend Your Turf! Este es un juego simple desarrollado en Pygame para el primer parcial de Laboratorio en la UTN, donde debes defender tu territorio de enemigos y peligros que se acercan. 
 
 ## Instalación
 
