@@ -2,6 +2,10 @@
 
 ¡Bienvenido a Defend Your Turf! Este es un juego simple desarrollado en Pygame para el primer parcial de Laboratorio en la UTN, donde debes defender tu territorio de enemigos y peligros que se acercan. 
 
+## Video de Gameplay
+
+[![Defend Your Turf Gameplay](https://img.youtube.com/vi/byXjDqmJozc/0.jpg)](https://youtu.be/byXjDqmJozc)
+
 ## Instalación
 
 1. Asegúrate de tener Python instalado. Puedes descargarlo [aquí](https://www.python.org/downloads/).
